@@ -1,4 +1,9 @@
-section{
-    display: flex;
-    justify-content: space-around;
+section {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+main {
+  padding: 2rem;
 }
