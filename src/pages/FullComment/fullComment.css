@@ -1,0 +1,17 @@
+.fullComment {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #e0e7ff;
+  /* width: 600px; */
+  padding: 20px;
+  color: #4338ca;
+  border-radius: 8px;
+  margin: 20px;
+}
+.delete {
+  background-color: #fff;
+  border: 1px solid #ef4444;
+  color: #ef4444;
+}
